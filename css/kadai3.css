@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+
+h2{
+    color:#aa00dd;
+    background-color:aquamarine;
+    text-align: center;
+}
+
+h3{
+    color: red;
+}
+
+p{
+    color:chocolate;
+}
+
+body{
+     background-image: url(../images/back2.jpg);
+     background-attachment: fixed;
+}
