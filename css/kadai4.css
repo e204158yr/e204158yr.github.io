@@ -1,0 +1,43 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.redcolor{
+    color:red;
+    background-color:purple;
+}
+
+.bluecolor{
+    color:blue;
+    background-color:yellow;
+}
+
+h2{
+    color:#aa00dd;
+    background-color:aquamarine;
+    text-align: center;
+}
+
+
+table{
+    background-color: aqua;
+}
+
+h3{
+    color: red;
+}
+
+ol{
+    background-image: url(../images/mizu.png);
+}
+
+p{
+    color:black; 
+}
+
+body{
+     background-image: url(../images/back2.jpg);
+     background-attachment: fixed;
+}
